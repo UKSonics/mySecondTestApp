@@ -1,1 +1,2 @@
 This second file has some text.
+Branch Branch2FixSomeBugs test
